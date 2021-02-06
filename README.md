@@ -12,7 +12,7 @@ https://github.com/bears-bugs/bears-benchmark （Bears 数据集）
 接着是继续输入当我们按下一个“/”后就变成下面的样子了，此时new file 就变成了一个文件夹了
 最后一步（因为github不允许创建空文件夹）我们需要在新文件夹下创建一个文件，用了readme.txt.  
 
-If you use Bears, please cite our paper:
+If you use Bears, please cite paper:
 
 @inproceedings{Madeiral2019,
   author = {Fernanda Madeiral and Simon Urli and Marcelo Maia and Martin Monperrus},
